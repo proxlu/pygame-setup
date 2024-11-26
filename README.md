@@ -9,14 +9,14 @@ Este script Python instala automaticamente o Pygame em um diretório específico
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/seu-usuario/pygame-setup.git
+   cd pygame-setup
    ```
 
-2. **Execute o script:**
+2. **Importe o script:**
 
    ```bash
-   python install_pygame.py
+   import pygameSetup
    ```
 
 3. **Importe o Pygame em seu projeto:**
